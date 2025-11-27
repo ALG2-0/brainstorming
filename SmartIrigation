@@ -31,3 +31,27 @@ IoT Smart Irrigation Monitor—a solar-powered prototype using sensors to track 
 
 Core Problem It Solves
 Algerian farms lose 30-50% of water to undetected leaks, overwatering, and manual scheduling mismatches with droughts, especially in northern schemes like Sidi Bel Abbès where public quotas ignore real-time data. This prototype provides continuous monitoring absent in 85% of systems, enabling precision for smallholders amid aquifer depletion
+
+
+
+
+
+1. Smart Irrigation Scheduler (AI-based)
+
+Use soil sensors + weather data + ML to automatically decide when and how much to irrigate. Reduces water waste and increases yield.
+
+2. Groundwater Extraction Monitoring
+
+Track well water usage using flow meters to prevent aquifer depletion and illegal extraction. Includes dashboards and alerts.
+
+3. AI Crop Selection & Rotation Tool
+
+Recommends optimal crops and rotations based on soil quality, water availability, and climate forecasts to reduce soil degradation.
+
+4. Low-Cost IoT Drip Irrigation Kit
+
+Affordable, easy-to-install IoT system that automates drip irrigation using simple sensors and solar power.
+
+5. Water Resource Planning Dashboard
+
+A national/regional tool for forecasting irrigation demand, drought risk, and water allocation using climate + geospatial data.
