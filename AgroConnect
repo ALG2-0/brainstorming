@@ -1,1 +1,45 @@
+# 🚀 AgroConnect DZ: Hackathon Project Overview
 
+This document summarizes our three proposed high-impact solutions addressing market inefficiencies, food loss, and supply chain fragmentation in Algerian agriculture.
+
+---
+
+## 1. AgroMind: Predictive Planting System
+
+### 🧠 The Problem
+Farmers plant blindly, leading to **massive overproduction** (like the "potato crisis") and price crashes, resulting in significant financial loss and food waste.
+
+### 💡 The Solution
+An **AI platform** that uses historical data and current Wilaya reports to advise farmers on the **most profitable crop** to plant for the upcoming season, preventing market surplus.
+
+### 🛠 Core Tech
+* **AI (Forecasting Models):** Python-based predictive analytics.
+* **Data Visualization:** Dashboard for planning and risk assessment.
+
+---
+
+## 2. FreshTrack IoT: Smart Cold Chain
+
+### 🚛 The Problem
+Up to **25% of crops spoil** during long-distance transport ("Talaf al Ma7sol") due to breaks in the cold chain and lack of monitoring.
+
+### 💡 The Solution
+A **real-time IoT monitoring system**. Sensors placed inside the transport vehicle track temperature and humidity, guaranteeing the freshness of goods.
+
+### 🛠 Core Tech
+* **IoT:** ESP32/Arduino and DHT sensors.
+* **Mobile App:** Instant alerts to the buyer and driver if the temperature exceeds safe limits.
+
+---
+
+## 3. SouqLink: Direct B2B Marketplace
+
+### 🤝 The Problem
+**Middlemen ("Mandataires") inflate prices** by 200-300%, maximizing consumer costs while minimizing farmer profits. Lack of trust hinders remote transactions.
+
+### 💡 The Solution
+A digital **B2B Marketplace** connecting farmers directly to bulk buyers (hotels, factories, etc.).
+
+### 🛠 Core Tech
+* **AI (Computer Vision):** Automatically grades produce quality from a photo to build remote trust.
+* **CS/Fintech:** Secure **Escrow Payments** to ensure farmer payment upon delivery confirmation.
